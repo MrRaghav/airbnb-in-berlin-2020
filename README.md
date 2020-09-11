@@ -1,0 +1,1 @@
+This project used Airbnb's official data of Berlin for the year 2020 and tries answer assorted questions using KDD approach of data mining.
