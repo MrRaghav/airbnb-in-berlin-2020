@@ -11,7 +11,7 @@ Research questions:
 A.	Is there a seasonality in the prices of properties listed in AirBnb-Berlin?<br />
 B.	Which are the popular areas of Berlin among the tourists?<br />
 C.	An analysis of reviews – using text mining<br />
-D.	Which are the most commonly available amenities in the properties of Berlin?<br />  
+D.	Which are the most commonly available amenities in the properties of Berlin?<br />
 E.	Can we predict the price of properties in Berlin by analysing other column values?<br />    
 
 Metrics used:
