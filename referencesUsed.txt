@@ -1,0 +1,88 @@
+references used for this have been updated in this link:
+
+
+[1]	"berlin-airbnb-data," inside airbnb, [Online]. Available:        http://insideairbnb.com/get-the-data.html.
+[2]	P. S. a. N. Braun, "Misuse through short-term rentals on the Berlin housing market," International Journal of Housing Markets and Analysis, vol. 9, no. 2, pp. 287-311, 2016.
+[3]	X. J. Mingming Cheng, "What do Airbnb users care about? An analysis of online review comments," International Journal of Hospitality Management, vol. 76, pp. 58-70, 2019
+[4]	K. X. Yong Chen, "Consumer valuation of Airbnb listings: a hedonic pricing approach," International Journal of Contemporary Hospitality Management, vol. 29, no. 9, pp. 2405-2424, 2017.
+[5]	J. M. S. G. S. &. J. C. Juan Pedro Aznar, "Airbnb landlords and price strategy: Have they learnt price discrimination from the hotel industry? Evidence from Barcelona," International Journal of Tourism Sciences vol. 18, no. 1, pp. 16-28, 2018
+[6]	M. C. a. S. K. Mitra, "Do airbnb host listing attributes influence room pricing homogenously?" International Journal of Hospitality Management, vol. 81, pp. 54-64, 2019.
+[7]	K. H. a. M. Merante, "Is home sharing driving up rents? Evidence from Airbnb in Boston," Journal of Housing Economics, vol. 38, pp. 14-24, 2017.
+[8]	D. D. a. F. H. Timm Teubner, "PRICE DETERMINANTS ON AIRBNB: HOW REPUTATION PAYS OFF IN THE SHARING ECONOMY," Journal of Self-Governance and Management Economics, no. 4, pp. 53-80, 2017.
+[9]	J. B. a. C. Vásquez, "If nearly all Airbnb reviews are positive, does that make them meaningless?" Current Issues in Tourism, vol. 21, no. 18, pp. 2057-2075, 2016.
+[10]	T. D. a. O. Pekin, "What do guests value most in Airbnb accommodations? An application of the hedonic pricing approach," Boston University School of Hospitality Administration, Boston, 2017.
+[11]	I. B. a. M. C. Cindy Yoonjoung Heo, "What is happening in Paris? Airbnb, hotels, and the Parisian market: A case study," Tourism Management, vol. 70, pp. 78-88, 2019.
+[12]	P. Y. e. al, "Customized Regression Model for Airbnb Dynamic Pricing," in Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2018.
+[13]	D. G. U. G. L. Y. a. J. M. Chris Gibbs, "Use of dynamic pricing strategies by Airbnb hosts," International Journal of Contemporary Hospitality Management, vol. 30, no. 1, pp. 2-20, 2018.
+[14]	"Airbnb," Wikipedia,[Online].Available: https://en.wikipedia.org/wiki/Airbnb.
+[15]	"Verwaltungsgliederung_Berlins," Wikipedia,[Online]. Available: https://de.wikipedia.org/wiki/Verwaltungsgliederung_Berlins
+[16]	"berlin-had-some-of-the-worlds-most-restrictive-rules-for-airbnb-rentals-now-its-loosening-up,"washingtonpost, [Online].Available: https://www.washingtonpost.com/world/europe/berlin-had-some-of-the-worlds-most-restrictive-rules-for-airbnb-rentals-now-its-loosening-up/2018/03/27/e3acda90-2603-11e8-a227-fd2b009466bc_story.html
+[17]	"MrRaghav/DataScience/blob/master/DCU_works/CA683_assignment_2019-20_pythonCodes/referencesUsed.txt," 2020.[Online].Available: https://github.com/MrRaghav/DataScience/blob/master/DCU_works/CA683_assignment_2019-20_pythonCodes/referencesUsed.txt
+
+
+[1]	"berlin-airbnb-data," inside airbnb, [Online]. Available:        http://insideairbnb.com/get-the-data.html.
+[2]	P. S. a. N. Braun, "Misuse through short-term rentals on the Berlin housing market," International Journal of Housing Markets and Analysis, vol. 9, no. 2, pp. 287-311, 2016.
+[3]	X. J. Mingming Cheng, "What do Airbnb users care about? An analysis of online review comments," International Journal of Hospitality Management, vol. 76, pp. 58-70, 2019
+[4]	K. X. Yong Chen, "Consumer valuation of Airbnb listings: a hedonic pricing approach," International Journal of Contemporary Hospitality Management, vol. 29, no. 9, pp. 2405-2424, 2017.
+[5]	J. M. S. G. S. &. J. C. Juan Pedro Aznar, "Airbnb landlords and price strategy: Have they learnt price discrimination from the hotel industry? Evidence from Barcelona," International Journal of Tourism Sciences vol. 18, no. 1, pp. 16-28, 2018
+[6]	M. C. a. S. K. Mitra, "Do airbnb host listing attributes influence room pricing homogenously?" International Journal of Hospitality Management, vol. 81, pp. 54-64, 2019.
+[7]	K. H. a. M. Merante, "Is home sharing driving up rents? Evidence from Airbnb in Boston," Journal of Housing Economics, vol. 38, pp. 14-24, 2017.
+[8]	D. D. a. F. H. Timm Teubner, "PRICE DETERMINANTS ON AIRBNB: HOW REPUTATION PAYS OFF IN THE SHARING ECONOMY," Journal of Self-Governance and Management Economics, no. 4, pp. 53-80, 2017.
+[9]	J. B. a. C. Vásquez, "If nearly all Airbnb reviews are positive, does that make them meaningless?" Current Issues in Tourism, vol. 21, no. 18, pp. 2057-2075, 2016.
+[10]	T. D. a. O. Pekin, "What do guests value most in Airbnb accommodations? An application of the hedonic pricing approach," Boston University School of Hospitality Administration, Boston, 2017.
+[11]	I. B. a. M. C. Cindy Yoonjoung Heo, "What is happening in Paris? Airbnb, hotels, and the Parisian market: A case study," Tourism Management, vol. 70, pp. 78-88, 2019.
+[12]	P. Y. e. al, "Customized Regression Model for Airbnb Dynamic Pricing," in Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2018.
+[13]	D. G. U. G. L. Y. a. J. M. Chris Gibbs, "Use of dynamic pricing strategies by Airbnb hosts," International Journal of Contemporary Hospitality Management, vol. 30, no. 1, pp. 2-20, 2018.
+[14]	"Airbnb," Wikipedia,[Online].Available: https://en.wikipedia.org/wiki/Airbnb.
+[15]	"Verwaltungsgliederung_Berlins," Wikipedia,[Online]. Available: https://de.wikipedia.org/wiki/Verwaltungsgliederung_Berlins
+[16]	"berlin-had-some-of-the-worlds-most-restrictive-rules-for-airbnb-rentals-now-its-loosening-up,"washingtonpost, [Online].Available: https://www.washingtonpost.com/world/europe/berlin-had-some-of-the-worlds-most-restrictive-rules-for-airbnb-rentals-now-its-loosening-up/2018/03/27/e3acda90-2603-11e8-a227-fd2b009466bc_story.html
+[17]	"MrRaghav/DataScience/blob/master/DCU_works/CA683_assignment_2019-20_pythonCodes/referencesUsed.txt," 2020.[Online].Available: https://github.com/MrRaghav/DataScience/blob/master/DCU_works/CA683_assignment_2019-20_pythonCodes/referencesUsed.txt
+https://www.kaggle.com/erikbruin/airbnb-the-amsterdam-story-with-interactive-maps
+https://medium.com/@bobhaffner/folium-markerclusters-and-fastmarkerclusters-1e03b01cb7b1
+#https://github.com/ruchigupta19/Boston-Airbnb-data-analysis
+#https://www.kaggle.com/erikbruin
+#https://github.com/pape1412/airbnb/blob/master/notebooks/q1_airbnb_popularity.ipynb
+https://github.com/eduardoburgoa/airbnb-valencia/blob/master/airbnb_valencia_analysis.ipynb
+https://github.com/pape1412/airbnb
+https://github.com/Data-Spaces-project/Berlin-Airbnb-Dataset-Analysis/blob/master/Berlin_Airbnb.ipynb
+https://github.com/Mcamin/Berlin-Airbnb-19-20/blob/master/Airbnb_Berlin.ipynb
+https://www.kaggle.com/erikbruin
+https://github.com/ruchigupta19/Boston-Airbnb-data-analysis
+https://github.com/pape1412/airbnb/
+https://towardsdatascience.com/airbnb-in-sydney-an-exploratory-data-analysis-ec91334e4780
+https://www.kaggle.com/erikbruin
+https://jinglescode.github.io/datascience/2019/07/13/airbnb-in-seattle-data-analysis/
+https://github.com/codescrum/airbnb-ml-workshop/blob/master/notebooks/ML_Workshop.ipynb
+https://github.com/willyii/CS235-New-York-Airbnb/blob/master/KNN/knn_price_prediction.ipynb
+https://github.com/pauljeon/airbnb-data-analysis/blob/master/analysis.ipynb
+https://github.com/eduardoburgoa/airbnb-valencia/blob/master/airbnb_valencia_analysis.ipynb
+https://github.com/prodillo/Airbnb-project/blob/master/Python_Project_Final.ipynb
+https://www.linkedin.com/pulse/chapter-1-introduction-crisp-dm-framework-data-science-anshul-roy
+http://www.proglobalbusinesssolutions.com/six-steps-in-crisp-dm-the-standard-data-mining-process/
+http://www2.cs.uregina.ca/~dbd/cs831/notes/kdd/1_kdd.html
+7. KNN on the data: https://www.dataquest.io/blog/machine-learning-tutorial/
+10. linear model : https://www.investopedia.com/terms/m/mlr.asp
+https://towardsdatascience.com/predicting-airbnb-prices-with-machine-learning-and-location-data-5c1e033d0a5a
+how much money can we make with airbnb in berlin - 
+https://github.com/pape1412/airbnb/blob/master/notebooks/q2_airbnb_income.ipynb
+factors influencing income of airbnb apartment - 
+https://github.com/pape1412/airbnb/blob/master/notebooks/q3_airbnb_income_features.ipynb
+https://medium.com/datadriveninvestor/random-forest-regression-9871bc9a25eb
+8. decision tree and random forest in Airbnb - 
+https://towardsdatascience.com/predicting-airbnb-prices-in-lisbon-trees-and-random-forests-336d19cdf5a2
+https://github.com/josetapadas/airbnb-lisbon-model-trees/blob/master/utf-8''TreesLisbonAirbnb.ipynb
+11. EDA : https://github.com/adodd202/Airbnb_Scraping/blob/master/Python_EDA.ipynb
+15. Random forest: https://github.com/MangoTheCat/Modelling-Airbnb-Prices (not used)
+9. regression - https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/
+23. best regression with H0 and RF: https://github.com/shouvikmani/AirbnbDataAnalysis/blob/master/Analyzing_Airbnb_in_New_York_City.ipynb
+https://medium.com/pursuitnotes/decision-tree-regression-in-6-steps-with-python-1a1c5aa2ee16
+17. decision tree : https://github.com/BigtoC/Data-Mining-of-Edinburgh-Airbnb/blob/master/data-mining.ipynb
+19. simple linear regression: https://github.com/adamhoward56/Airbnb/blob/master/CMSC320%20Airbnb%20Final%20Data%20Exploration.ipynb
+18. price with other city: https://github.com/Dima806/Airbnb_project/blob/master/airbnb_final_analysis_v3.ipynb
+20. random forest linear regression using stats model: https://github.com/ChristineHillier/Airbnb/blob/master/predicting-listing-prices.ipynb
+21. good data cleaning: https://github.com/WeiWu0210/airbnb/blob/master/airbnb_sf.ipynb
+22. good random forest: https://github.com/TanKenny/AirbnbEstimator/blob/master/airbnb_random_forest_classifier.ipynb
+25. good svr and random forest: https://github.com/kavasoglu/airbnb_istanbul/blob/master/airbnb_istanbul.ipynb
+https://www.kaggle.com/erikbruin/airbnb-the-amsterdam-story-with-interactive-maps
+https://gist.github.com/jinglescode/08d21b680bd11008c73083f9645d6b1d#file-seattle-airbnb-open-data-ipynb
+https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
